@@ -1,10 +1,6 @@
-# estudosJS-Rockseat
-
-Arquivos de acompanhamento e atividades resolvidas dos cursos de javascript e ES6 da [Rocketseat].
+Arquivos de acompanhamento do cursos de ES6+ da [Rocketseat].
 
 **Anotações gerais**
-const = É uma constante e não pode ter seu valor re-atribuído. 
-let = é uma variável de escopo local.
 
 O Async-await faz uso do try/catch. 
 As promises usam .then/.catch
