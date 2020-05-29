@@ -1,4 +1,6 @@
 Arquivos de acompanhamento do cursos de ES6+ da [Rocketseat].
+A aplicação dessa pasta é uma página simples que consome API do Github.
+Na barra de pesquisa ao colocar o "usuário/nome de um repositório" a aplicação retorna o nome, descrição, imagem e link. Caso o repositório não seja encontrado é emitido um alerta.
 
 **Anotações gerais**
 
