@@ -1,6 +1,6 @@
 # estudosJS-Rockseat
 
-Arquivos de acompanhamento do curso e atividades de javascript e ES6 da [Rocketseat].
+Arquivos de acompanhamento do curso e atividades de javascript,ES6 e React da [Rocketseat].
 
 **Anotações gerais**
 
