@@ -1,0 +1,43 @@
+main a{
+
+    width: 100%;
+    height: 72px;
+    border-radius: 8px;
+    max-width: 360px;
+    background: var(--primary-color);
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    transition: 400ms;
+    font-weight: bold;
+    color: white;
+}
+
+ main a:hover{
+    background-color: #2fb86e;
+}
+
+ main a span{
+    width: 72px;
+    height: 72px;
+    border-top-left-radius: 8px;    
+    border-bottom-left-radius: 8px;
+
+    background-color: rgba(0, 0, 0, 0.08);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ main a span::after{
+    content:"";
+    background-image: url('../../assets/search.svg');
+    width: 20px;
+    height: 20px;
+}
+
+ main a strong{
+    flex: 1;
+    color: white;
+    text-align: center;
+}
